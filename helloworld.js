@@ -1,3 +1,3 @@
-let flag = true;
-flag = false;
-flag = true;
+let num = 100;
+let myStr = 'Hello world!';
+const myArr = [1, 2, 3];
