@@ -1,1 +1,3 @@
-console.log('Hello world!');
+let flag = true;
+flag = false;
+flag = true;
